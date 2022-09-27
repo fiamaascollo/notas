@@ -13,3 +13,6 @@ PARA AGREGAR: - git init
               - git commit -m (comentario)
               - git push -u origin master
               - git remote add origin (link del repositorio)
+
+ANOTACIONES CLASE 5
+- COMENTARIOS: alt + shift + a PARA COMENTAR EN TODOS LOS LENGUAJES, ctrl + z para descomentar
