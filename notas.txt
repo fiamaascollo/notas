@@ -16,5 +16,5 @@ PARA AGREGAR: - git init
 
 ANOTACIONES CLASE 5
 - COMENTARIOS: alt + shift + a PARA COMENTAR EN TODOS LOS LENGUAJES, ctrl + z para descomentar
-_cd.. : Para salir de la carpeta en la que estoy
+_ cd.. : Para salir de la carpeta en la que estoy
 _ git log : Para ver qué comentarios se han hecho, quién los hizo y cuándo
