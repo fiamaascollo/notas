@@ -2,8 +2,14 @@ ANOTACIONES CLASE 4
 - .gitkeep: Para que Git haga el seguimiento de dicho archivo
 - .gitignore: Para que Git no haga el seguimiento de dicho archivo
 - *.txt: Para que Git no haga el seguimiento de ningun archivo de tipo txt
-_ git status: 
+_ git status: Para ver el estado y los archivos guardados
 _ git push -u origin MASTER
- PARA ACTUALIZAR: -git add . 
-                  - git commit -m 
-                  - git push -u origin main
+_ cd : Para cambiar de directorio
+PARA ACTUALIZAR:- git add . 
+                - git commit -m 
+                - git push -u origin master 
+PARA AGREGAR: - git init
+              - git add .
+              - git commit -m (comentario)
+              - git push -u origin master
+              - git remote add origin (link del repositorio)
